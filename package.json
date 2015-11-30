@@ -1,0 +1,16 @@
+{
+  "name": "simple-rss-gen",
+  "author": "Comely Naiad <comely.naiad@gmail.com>",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alice0meta/simple-rss-gen.git"
+  },
+  "dependencies": {
+    "rss": "^1.2.1",
+    "underscore": "^1.8.3"
+  },
+  "bin": {
+    "simple-rss-gen": "./run.sh"
+  }
+}
